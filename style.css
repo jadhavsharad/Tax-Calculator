@@ -1,0 +1,7 @@
+.is-invalid {
+    border-color: red;
+}
+
+.is-invalid + .bi-info-circle {
+    color: red;
+}
